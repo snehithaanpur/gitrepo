@@ -7,3 +7,4 @@ hi
 hello git
 new line added
 new
+new linw
