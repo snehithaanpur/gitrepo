@@ -6,3 +6,4 @@ hello snehitha
 hi
 hello git
 new line added
+new
